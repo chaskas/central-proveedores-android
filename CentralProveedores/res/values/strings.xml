@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Central Proveedores</string>
+    <string name="title_activity_main">Central Proveedores</string>
+    <string name="title_activity_map">Proveedores</string>
+    <string name="title_activity_splash_screen">CentralProveedores</string>
+
+</resources>
